@@ -165,5 +165,6 @@ Crime offense percentage descriptions provide a comprehensive overview of the di
 [1]: <https://www.kaggle.com/datasets/adamschroeder/crimes-new-york-city/code> "Website"<br></br>
 [2]: <> "Link"<br></br>
 
-## Powerpoint presentation <https://www.canva.com/design/DAGfgeBQDIA/weIrTbTe_Y91Fo7CbmwCcw/edit?utm_content=DAGfgeBQDIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton> "Canva" <br></br>
+## Presentation Slides
+[Canva](https://www.canva.com/design/DAGfgeBQDIA/weIrTbTe_Y91Fo7CbmwCcw/edit?utm_content=DAGfgeBQDIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
